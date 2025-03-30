@@ -1,0 +1,11 @@
+{
+  "name": "learn-nestjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seorang42/learn-nestjs.git",
+  "author": "seorang42 <seorang42@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
